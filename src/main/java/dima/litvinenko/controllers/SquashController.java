@@ -8,5 +8,7 @@ private String property4;
     private String property5;
     private String property6;
     private String property7;
-
+    private String property8;
+    private String property9;
+    private String property10;
 }
